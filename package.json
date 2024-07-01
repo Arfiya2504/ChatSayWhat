@@ -1,0 +1,17 @@
+{
+  "name": "talk-a-tive",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Shiwani Jain",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4"
+  }
+}
